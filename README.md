@@ -136,6 +136,7 @@ SciencePlots in Academic Papers
 -------------------------------
 
 The following papers use ``SciencePlots``:
+- E. Garzón, *et al.*, ["Exploiting STT-MRAMs for Cryogenic Non-Volatile Cache Applications,"](https://ieeexplore.ieee.org/document/9316299) *IEEE Trans. on Nanotechnology*, vol. 20, pp. 123-128, 2021.
 
 - J. Garrett, *et al.*, ["A Nonlinear Transmission Line Model for Simulating Distributed SIS Frequency Multipliers,"](https://ieeexplore.ieee.org/abstract/document/9050728)  *IEEE Trans. THz Sci. Technol.*, vol. 10, no. 3, pp. 246-255, May 2020. ([open access](https://ora.ox.ac.uk/objects/uuid:5ca31c2c-a984-462c-b21a-3fe16eee0d9b/download_file?safe_filename=XXXX_final_JohnGarrett.pdf&type_of_work=Journal+article))
 
